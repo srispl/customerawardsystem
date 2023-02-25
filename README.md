@@ -1,4 +1,4 @@
-# Customer Raward System
+# Customer Reward System
 
 Customer Rewards System is a restful API built with Spring boot to calculate the customer rewards based on following business logic
 
